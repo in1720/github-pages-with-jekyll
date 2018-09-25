@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Welcome to mygitHub
 
-I'm glad you are here. I plan to talk about ...
+I am new to gitHub, Going through the https://lab.github.com/courses 
+which is quite helpfull.
